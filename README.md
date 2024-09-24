@@ -24,6 +24,12 @@ funny links
 - 🗿
 
 ## Keyboard Shortcuts
+Shortcuts I frequently use:
 - Alt-Tab (switch tabs)
 - Windows-shift-s (screenshot)
 - Alt-F4 (Force close tab)
+
+Shortcuts I would like to start using:
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Crtl-A (select all)
