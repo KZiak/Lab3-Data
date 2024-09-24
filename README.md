@@ -22,3 +22,8 @@ funny links
 - 😊
 - 😆
 - 🗿
+
+## Keyboard Shortcuts
+- Alt-Tab (switch tabs)
+- Windows-shift-s (screenshot)
+- Alt-F4 (Force close tab)
