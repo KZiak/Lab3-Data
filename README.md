@@ -33,3 +33,8 @@ Shortcuts I would like to start using:
 - Ctrl-C (copy)
 - Ctrl-V (paste)
 - Crtl-A (select all)
+
+[CLI Commands](docs/cli.md)
+Add a page about CLI commands
+
+This is for lab6
